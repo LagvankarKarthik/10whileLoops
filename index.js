@@ -7,3 +7,4 @@ while (i<a) {
   console.log('Haha', i);
   i++;
 }
+console.log('Hello world');
