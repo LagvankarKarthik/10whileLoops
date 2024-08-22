@@ -11,7 +11,6 @@ for (let i = 0; i < num; i++) {
 
 console.log(sum);
 
-
 //Forin loops
 let obj = {
   Karthik: "100",
@@ -23,4 +22,8 @@ let obj = {
 for (let a in obj) {
   console.log(a);
   console.log("Marks of ", a, " is", obj[a]);
+}
+
+for (let b of "Karthik") {
+  console.log(b);
 }
