@@ -1,0 +1,22 @@
+ul {
+  display: flex;
+  width: 100vw;
+  background-color: rgb(21, 2, 36);
+  color: rgb(178, 178, 197);
+}
+
+li {
+  margin: 0px;
+  padding: 20px;
+  list-style: none;
+}
+
+body,
+html {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(178, 178, 197) !important;
+  margin: 0px;
+  padding: 0px;
+}
