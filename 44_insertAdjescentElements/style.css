@@ -1,0 +1,19 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.yellow {
+  background-color: yellowgreen;
+  color: rgb(226, 214, 214);
+}
+
+.blue {
+  background-color: rgb(37, 23, 65);
+  color: rgb(190, 182, 207);
+}
+
+.text-dark {
+    color: black;
+}
